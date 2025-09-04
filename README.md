@@ -1,12 +1,38 @@
-# React + Vite
+# Anirudh Careers (Job Portal)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern **Job Portal Platform** built with **React.js, Tailwind CSS, and Vite**, featuring authentication, job listings, and search/filter functionality.  
 
-Currently, two official plugins are available:
+🔗 **Live Demo:** [your deployed link here]  
+💻 **GitHub Repo:** [this repo link]  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## ✨ Highlights
+- Responsive UI built with Tailwind CSS  
+- Authentication and user sessions (Clerk)  
+- Job listing, detail view, and search with filters  
+- Clean project structure with reusable components  
+- Optimized build with Vite  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠 Tech Stack
+- **Frontend:** React.js, Vite, React Router  
+- **Styling:** Tailwind CSS, shadcn/ui  
+- **Auth & Data:** Clerk, Supabase  
+- **Tooling:** Git, npm  
+
+---
+
+## ⚡ Quick Setup
+
+```bash
+# Clone the repo
+git clone https://github.com/anirudhsai581/Anirudh-Careers-Project.git
+cd Anirudh-Careers-Project
+
+# Install dependencies
+npm install
+
+# Run locally
+npm run dev
