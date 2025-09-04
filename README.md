@@ -9,10 +9,13 @@ A modern **Job Portal Platform** built with **React.js, Tailwind CSS, and Vite**
 
 ## ✨ Highlights
 - Responsive UI built with Tailwind CSS  
-- Authentication and user sessions (Clerk)  
-- Job listing, detail view, and search with filters  
+- Authentication and user sessions (Clerk)
+- Candidate Flow and Recruiter flow
+- Job listing, detail view, and search with filters ,View savedJobs
+- Applications view,Post Jobs,change application status
 - Clean project structure with reusable components  
-- Optimized build with Vite  
+- Optimized build with Vite
+- 
 
 ---
 
