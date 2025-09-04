@@ -2,8 +2,8 @@
 
 A modern **Job Portal Platform** built with **React.js, Tailwind CSS, and Vite**, featuring authentication, job listings, and search/filter functionality.  
 
-🔗 **Live Demo:** [your deployed link here]  
-💻 **GitHub Repo:** [this repo link]  
+🔗 **Live Demo:** [https://job-portal-project-mocha.vercel.app/]  
+💻 **GitHub Repo:** []  
 
 ---
 
