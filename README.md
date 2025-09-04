@@ -15,7 +15,7 @@ A modern **Job Portal Platform** built with **React.js, Tailwind CSS, and Vite**
 - Applications view,Post Jobs,change application status
 - Clean project structure with reusable components  
 - Optimized build with Vite
-- 
+  
 
 ---
 
